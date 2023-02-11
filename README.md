@@ -17,6 +17,9 @@ Program ini memiliki alur sebagai berikut:
 6. User akan mengecek total harga pada transaksi dengan menggunakan method total_price. Program akan menghitung subtotal dari pesanan dengan menghitung keseluruhan harga pada setiap item, lalu menghitung total harga dengan mengecek kondisi diskon dari subtotal.
 
 ## Penjelasan Kode
+Pada program ini, terdapat beberapa function yang akan membantu user untuk membuat pesanan:
+###1. Tambah pesanan
+Fungsi ini akan memasukkan pesanan user yang berupa nama item, jumlah item, dan harga item
 ## Hasil Test Case
 Pilihan opsi dan Opsi 1 #1 <br />
 ![image](https://user-images.githubusercontent.com/113890684/218240907-685763f1-568f-457e-9d1b-46478fe0734b.png)<br />
