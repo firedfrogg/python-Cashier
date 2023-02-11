@@ -18,15 +18,10 @@ Program ini memiliki alur sebagai berikut:
 
 ## Penjelasan Kode
 ## Hasil Test Case
-Pilihan opsi dan Opsi 1
 ![image](https://user-images.githubusercontent.com/113890684/218240907-685763f1-568f-457e-9d1b-46478fe0734b.png)
-Opsi 1 #2
 ![image](https://user-images.githubusercontent.com/113890684/218240925-2a91f532-1dd4-49e2-9c16-c068fcd9c81d.png)
-Opsi 2 #1
 ![image](https://user-images.githubusercontent.com/113890684/218240939-97e4fdd1-69f8-4f51-9b1b-1df8863b4024.png)
-Opsi 2 #2
 ![image](https://user-images.githubusercontent.com/113890684/218240951-d6da0d7e-5bcb-434e-8e8b-532062733881.png)
-Opsi 2 #2
 ![image](https://user-images.githubusercontent.com/113890684/218240977-e415262f-7b7e-441d-9a12-24af68b63a29.png)
 Opsi 3 #1
 ![image](https://user-images.githubusercontent.com/113890684/218241019-4a16bf65-b26d-4619-b375-74d566170194.png)
