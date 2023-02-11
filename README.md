@@ -18,7 +18,7 @@ Program ini memiliki alur sebagai berikut:
 
 ## Penjelasan Kode
 Pada program ini, terdapat beberapa function yang akan membantu user untuk membuat pesanan:
-###1. Tambah pesanan
+### 1. Tambah pesanan
 Fungsi ini akan memasukkan pesanan user yang berupa nama item, jumlah item, dan harga item
 ## Hasil Test Case
 Pilihan opsi dan Opsi 1 #1 <br />
