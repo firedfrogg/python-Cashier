@@ -1,7 +1,9 @@
 # Cashier - Project
 
 ## Latarbelakang Problems
-Program Super Cashier adalah program yang memiliki fungsi utama untuk membantu pemilik-pemilik usaha untuk bisa melakukan transaksi lebih cepat dan efisien dibandingkan dengan transaksi konvensional. Selain itu, Program Super Cashier akan membantu sebuah perusahaan untuk mencatat transaksi menjadi lebih akurat dan cepat
+Program Super Cashier adalah program yang memiliki fungsi utama untuk membantu pemilik-pemilik usaha untuk bisa melakukan transaksi lebih cepat dan efisien dibandingkan dengan transaksi konvensional. Selain itu, Program Super Cashier akan membantu sebuah perusahaan untuk mencatat transaksi menjadi lebih akurat dan cepat.
+
+Program Super Cashier dibuat dengan memanfaatkan Object-Oriented Programming (OOP), try-except, clean code, documentation, dan clean code.
 ## Alur Program
 Program ini memiliki alur sebagai berikut:
 1. User akan membuat ID transaksi customer. ID transaksi dapat berupa string apapun, seperti "trnsct_123". ID transaksi dapat dibuat seperti ini "trnsct123 = Transaction()"
