@@ -17,23 +17,22 @@ Program ini memiliki alur sebagai berikut:
 6. User akan mengecek total harga pada transaksi dengan menggunakan method total_price. Program akan menghitung subtotal dari pesanan dengan menghitung keseluruhan harga pada setiap item, lalu menghitung total harga dengan mengecek kondisi diskon dari subtotal.
 
 ## Penjelasan Kode
-Pada program ini, terdapat beberapa function yang akan membantu user untuk membuat pesanan:
-### 1. Tambah pesanan
+Pada program ini, terdapat beberapa fungsi yang akan membantu user untuk membuat pesanan:
+### 1. add_item
 Fungsi ini akan memasukkan pesanan user yang berupa nama item, jumlah item, dan harga item
-### 2. Ubah nama item
+### 2. update_item_name
 Fungsi ini akan mengecek terlebih dahulu apakah nama yang mau diganti terdapat dalam pesanan. Jika ada, nama yang di dalam pesanan akan diganti oleh nama baru. Jika tidak, program akan mengeluarkan output error
-### 3. Ubah jumlah item
+### 3. update_item_qty
 Fungsi ini akan mengecek terlebih dahulu apakah nama item yang mau diganti terdapat dalam pesanan. Jika ada, jumlah pesanan tersebut akan diganti dengan jumlah yang baru. Jika tidak, program akan mengeluarkan output error
-### 4. Ubah harga item
+### 4. update_item_price
 Fungsi ini akan mengecek terlebih dahulu apakah nama item yang mau diganti terdapat dalam pesanan. Jika ada, harga pesanan tersebut akan diganti dengan harga yang baru. Jika tidak, program akan mengeluarkan output
-### 5. Hapus Item
+### 5. delete_item
 Fungsi ini akan mengecek terlebih dahulu apakah nama item yang mau dihapus terdapat di dalam pesanan. Jika ada, program akan menghapus item tersebut di pesanan. Jika tidak, program akan mengeluarkan output error
-### 6. Hapus semua item
+### 6. reset_transaction
 Fungsi ini akan menghapus keseluruhan pesanan.
-### 7. Cek Pesanan
+### 7. check_order
 Fungsi ini akan mengecek kesesuaian penamaan item dalam pesanan (Tidak ada harga dan jumlah dalam bentuk string, tidak ada string kosong, dll). Jika tidak ada ketidaksesuaian, program akan mengeluarkan output berupa rincian dari pesanan yang telah di-input serta memanggil fungsi total_price untuk mengetahui subtotal dan total dari pesanan.
-### 8. Exit
-Fungsi ini akan memberhentikan program
+
 ## Hasil Test Case
 Pilihan opsi dan Opsi 1 #1 <br />
 ![image](https://user-images.githubusercontent.com/113890684/218240907-685763f1-568f-457e-9d1b-46478fe0734b.png)<br />
